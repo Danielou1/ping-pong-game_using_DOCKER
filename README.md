@@ -69,4 +69,11 @@ To temporarily share the game with anyone in the world, you can use `ngrok`.
    ```bash
    ngrok http 8080
    ```
-3. Share the public URL (ending in `.ngrok.io`) that `ngrok` provides.# ping-pong-game_using_DOCKER
+3. Share the public URL (ending in `.ngrok.io`) that `ngrok` provides.
+
+---
+
+## Author & Contact
+
+- **Danielou Mounsande**
+- Feel free to contact me: [mounsandedaniel@gmail.com](mailto:mounsandedaniel@gmail.com)
